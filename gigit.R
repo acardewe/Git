@@ -26,3 +26,5 @@ propclust <- enusc2023withcluster %>%
     prop_nse_medio = survey_mean(rph_nse == 2, na.rm = TRUE),                  # NSE medio
     prop_nse_alto = survey_mean(rph_nse == 3, na.rm = TRUE)                    # NSE alto
   )
+
+#Hello!
